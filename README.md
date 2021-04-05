@@ -12,6 +12,7 @@ queries as well as check policies assigned to any user.
 - Clone with command: `git clone https://github.com/hmafnan/UserLifeCycle.git`
 - cd into UserLifeCycle(root of the project)
 - Optional: If pip3 is not installed use this command: `sudo apt-get install python3-pip`
+- Optional: If virtualenv is not installed use this command `sudo apt install virtualenv`
 - Create virtual environment by using python 3 with command: `virtualenv -p python3 venv`
 - Activate newly created virtual environment with: `source venv/bin/activate`
 - Run: `pip install -r requirements.txt`
